@@ -1,3 +1,11 @@
+/**
+ * Harmonize channel names for running cellpose later
+ * @author Olivier Burri, EPFL - SV - PTECH - PTBIOP
+ * For Estelle Deby, UPKARTHAUS 
+ * Date: 20240209
+ */
+
+
 def project = getProject()
 
 def entries = project.getImageList()
