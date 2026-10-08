@@ -30,7 +30,5 @@ The scripts are numbered and **must be run in order**.
 Organoid detection relies on a custom Cellpose model trained on 5x brightfield organoid images.
 The reference of the model is DOI:10.5281/zenodo.23230322
 
-## License
-# add
 
 
