@@ -32,6 +32,11 @@ The scripts are organized and numbered in a certain order and **have to be run i
 This first part requires Fiji software, which can be downloaded [here](https://imagej.net/software/fiji/downloads). 
 No extra update-site is required.
 
+#### How to use
+- Download the `.ijm` script
+- Drag-drop it into Fiji main window to open it.
+- ????
+
 #### Scripts description
 | Step | Script | Purpose |
 |------|--------|---------|
@@ -43,6 +48,11 @@ No extra update-site is required.
 #### Requirements
 This second part makes the use of [QuPath](https://qupath.github.io/) software.
 
+#### How to use
+- Download the `.groovy` scripts
+- Drag-drop them into QuPath main window to open them.
+- Read carefully the instructions written in the script header, if applicable.
+- Click on Run.
 
 #### Scripts description
 | Step | Script | Purpose |
@@ -62,9 +72,11 @@ The reference of the model is [DOI:10.5281/zenodo.23230322](https://zenodo.org/d
 
 
 ## 2 - Data analysis
+
 #### Requirements
 This last part relies on Python. *Here, you should explain how to install the necessary packages*
 
+#### How to use
 
 #### Scripts description
 | Step | Script | Purpose |
