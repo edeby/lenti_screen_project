@@ -93,6 +93,8 @@ Run the script linked below on your the annotation and detection dataframes outp
 Please cite those scripts by linking them to this GitHub or to the release you used, 
 and by linking them to corresponding Zenodo entry
 
+<a href="https://doi.org/10.5281/zenodo.23440049"><img src="https://zenodo.org/badge/687453766.svg" alt="DOI"></a>
+
 
 ## Code authorship
 **1 - Organoid analysis: Author**: Olivier Burri @lacan (1)
