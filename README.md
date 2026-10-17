@@ -35,7 +35,7 @@ No extra update-site is required.
 #### How to use
 - Download the `.ijm` script
 - Drag-drop it into Fiji main window to open it.
-- ????
+- Run script on images
 
 #### Scripts description
 | Step | Script | Purpose |
@@ -74,15 +74,18 @@ The reference of the model is [DOI:10.5281/zenodo.23230322](https://zenodo.org/d
 ## 2 - Data analysis
 
 #### Requirements
-This last part relies on Python. *Here, you should explain how to install the necessary packages*
+This last part relies on Python v 3.11.4.
+
+The necessary packages are: 
+- Pandas : 2.0.3
+- Numpy : 1.24.3
+- Matplotlib : 3.7.1
+- Seaborn : 0.12.2
+- Scipy : 1.11.1
 
 #### How to use
 
-#### Scripts description
-| Step | Script | Purpose |
-|------|--------|---------|
-| 7 | `****` | *add your description*  |
-
+Run the script linked below on your the annotation and detection dataframes outputed from QuPath. 
 
 
 # Citing
@@ -92,15 +95,15 @@ and by linking them to corresponding Zenodo entry
 
 
 ## Code authorship
-**Author**: Olivier Burri @lacan (1)
+**1 - Organoid analysis: Author**: Olivier Burri @lacan (1)
 
 **Contributors**: EPFL BioImaging and Optics Platform (BIOP) members
 
+**Affiliations** (1) EPFL BioImaging and Optics Platform (BIOP)
 
-**Affiliations**
+**2 - Data analysis: Author**: Estelle Deby
 
-(1) EPFL BioImaging and Optics Platform (BIOP)
 
-### If you use thoses scripts, you should cite the following publications
+## If you use thoses scripts, you should cite the following publication;
 
-- *insert your publication here*
+- *to be added*
